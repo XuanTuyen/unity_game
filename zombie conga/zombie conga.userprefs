@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ScreenRelativePosition.cs">
+    <Files>
+      <File FileName="Assets\scripts\BackgroundRepeater.cs" Line="5" Column="36" />
+      <File FileName="Assets\scripts\CameraController.cs" Line="6" Column="30" />
+      <File FileName="Assets\scripts\CatController.cs" Line="7" Column="3" />
+      <File FileName="Assets\scripts\ScreenRelativePosition.cs" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
